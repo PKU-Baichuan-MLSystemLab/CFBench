@@ -1,17 +1,11 @@
-<<<<<<< HEAD
 # CFBench: A Comprehensive Constraints-Following Benchmark for LLMs
-=======
-
-# CFBench
-This repository is the official implementation of 'CFBench: A Comprehensive Constraints-Following Benchmark for LLMs'.
->>>>>>> 8d717ba4d0840cc6424c9e41ee98e2bd545b7713
 
 ## 1. Dataset
 Typical case illustration  
-![Case](resources/img/1_introduction_case.png)     
+![Case](https://github.com/zhangtao-tanh/CFBench/blob/main/resources/img/1_introduction_case.png)     
 
 Construction Pipline    
-![Construction Pipline](resources/img/2_pipline.png)
+![Construction Pipline](https://github.com/zhangtao-tanh/CFBench/blob/main/resources/img/2_pipline.png)
 
 An example of CFBench. 
 ```
@@ -61,13 +55,13 @@ An example of CFBench.
 
 ## 2. Result
 full leaderboard    
-![leaderboard](resources/img/leaderboard.png)
+![leaderboard](https://github.com/zhangtao-tanh/CFBench/blob/main/resources/img/leaderboard.png)
 
 constraints results  
-![constraints_results](resources/img/4_constraints_results.png)
+![constraints_results](https://github.com/zhangtao-tanh/CFBench/blob/main/resources/img/4_constraints_results.png)
 
 domains and nlp tasks results    
-![domain_nlp_results](resources/img/5_domain_nlp_results.png)
+![domain_nlp_results](https://github.com/zhangtao-tanh/CFBench/blob/main/resources/img/5_domain_nlp_results.png)
 
 
 ## 3. Evaluation
