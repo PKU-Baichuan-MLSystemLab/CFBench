@@ -63,7 +63,7 @@ class CFBench():
             print(f"save result error, {e}")
 
     def __call__(self):
-        datas = self. _load_examples(self.in_path)[:4]
+        datas = self. _load_examples(self.in_path)
         result = self._infer_parallel(datas, self.para_num)
         self._save_result(result)
 
