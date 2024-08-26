@@ -247,7 +247,7 @@ class Evaluation():
     def __call__(self):
         start_time = time.time()
         # judge
-        data = json.load(open(self.in_path, "r", encoding="utf-8"))[:20]
+        data = json.load(open(self.in_path, "r", encoding="utf-8"))
         judge_results = self._judged(data, self.para_num)
         results = []
         for task in judge_results:
